@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aguirre/FriendFinder/issues"
   },
-  "homepage": "https://github.com/aguirre/FriendFinder#readme"
+  "homepage": "https://github.com/aguirre/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
